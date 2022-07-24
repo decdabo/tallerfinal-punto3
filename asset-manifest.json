@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5b5c14b.css",
-    "main.js": "/static/js/main.64233a26.js",
-    "static/media/mainbackground.jpg": "/static/media/mainbackground.9bbc258f8a7c8699ec0f.jpg",
-    "static/media/sofkalogo.png": "/static/media/sofkalogo.eacc0bca2af847e7949a.png",
-    "index.html": "/index.html",
-    "main.f5b5c14b.css.map": "/static/css/main.f5b5c14b.css.map",
-    "main.64233a26.js.map": "/static/js/main.64233a26.js.map"
+    "main.css": "/tallerfinal-punto3/static/css/main.323a4a9c.css",
+    "main.js": "/tallerfinal-punto3/static/js/main.5314192e.js",
+    "static/media/mainbackground.jpg": "/tallerfinal-punto3/static/media/mainbackground.9bbc258f8a7c8699ec0f.jpg",
+    "static/media/sofkalogo.png": "/tallerfinal-punto3/static/media/sofkalogo.eacc0bca2af847e7949a.png",
+    "index.html": "/tallerfinal-punto3/index.html",
+    "main.323a4a9c.css.map": "/tallerfinal-punto3/static/css/main.323a4a9c.css.map",
+    "main.5314192e.js.map": "/tallerfinal-punto3/static/js/main.5314192e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5b5c14b.css",
-    "static/js/main.64233a26.js"
+    "static/css/main.323a4a9c.css",
+    "static/js/main.5314192e.js"
   ]
 }
