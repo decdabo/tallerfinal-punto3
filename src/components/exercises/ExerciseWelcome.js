@@ -4,21 +4,19 @@ export const ExerciseWelcome = () => {
   const [preState, setPreState] = useState(false)
   return (
     <div className="main__exercise">
-      <h1>Welcome!</h1>
+      <h1>Bienvenido!</h1>
         <div className="exercise">
           <pre style={{ maxHeight: preState ? "250vh" : "10vh" }}>
             <code>
               {`
 0
-1    Welcome!
+1    Bienvenido!
 2
-3    This is the code section
-4    were you can see my code literally how it is
+3    Esta es la sección de código
+4    donde vas a ver el código tal cual lo escribí.
 5    
-6    I hope this likes you :)
+6    Espero que el diseño sea de su agrado :)
 7
-8
-9
 `}
             </code>
           </pre>
