@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tallerfinal-punto3/static/css/main.ae30d510.css",
-    "main.js": "/tallerfinal-punto3/static/js/main.4ff02aaf.js",
-    "static/media/mainbackground.jpg": "/tallerfinal-punto3/static/media/mainbackground.9bbc258f8a7c8699ec0f.jpg",
-    "index.html": "/tallerfinal-punto3/index.html",
-    "main.ae30d510.css.map": "/tallerfinal-punto3/static/css/main.ae30d510.css.map",
-    "main.4ff02aaf.js.map": "/tallerfinal-punto3/static/js/main.4ff02aaf.js.map"
+    "main.css": "/static/css/main.f5b5c14b.css",
+    "main.js": "/static/js/main.cca49e95.js",
+    "static/media/mainbackground.jpg": "/static/media/mainbackground.9bbc258f8a7c8699ec0f.jpg",
+    "index.html": "/index.html",
+    "main.f5b5c14b.css.map": "/static/css/main.f5b5c14b.css.map",
+    "main.cca49e95.js.map": "/static/js/main.cca49e95.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae30d510.css",
-    "static/js/main.4ff02aaf.js"
+    "static/css/main.f5b5c14b.css",
+    "static/js/main.cca49e95.js"
   ]
 }
