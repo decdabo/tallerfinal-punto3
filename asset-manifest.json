@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/punto-3/static/css/main.26d9ff69.css",
+    "main.js": "/punto-3/static/js/main.ff4b08e4.js",
+    "static/media/mainbackground.jpg": "/punto-3/static/media/mainbackground.9bbc258f8a7c8699ec0f.jpg",
+    "index.html": "/punto-3/index.html",
+    "main.26d9ff69.css.map": "/punto-3/static/css/main.26d9ff69.css.map",
+    "main.ff4b08e4.js.map": "/punto-3/static/js/main.ff4b08e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26d9ff69.css",
+    "static/js/main.ff4b08e4.js"
+  ]
+}
