@@ -1,0 +1,101 @@
+.main {
+  &__nav {
+    border-bottom: 1px solid $main-color;
+    width: 100%;
+    height: 10%;
+    ul {
+      @include center-content();
+      height: 100%;
+      width: 100%;
+      flex-direction: row;
+      li {
+        @include center-content();
+        width: 16%;
+        height: 100%;
+        transition: all .4s ease-in-out;
+        a {
+          @include center-content();
+          height: 100%;
+          width: 100%;
+          text-decoration: none;
+          color: $main-color;
+        }
+        &:hover {
+          background-color: lighten($color: $main-background, $amount: 10);
+          border-bottom: 3px solid $main-color;
+        }
+      }
+
+      select {
+        border-radius: 5px;
+        border: 1px solid $main-color;
+        background-color: $main-background;
+        color: $main-color;
+        padding: 1%;
+      }
+    }
+  }
+  &__exercise {
+    background-color: lighten($color: $main-background, $amount: 2);
+    overflow-y: scroll;
+    padding-top: 2%;
+    &::-webkit-scrollbar{
+      width: auto;
+    }
+    h1 {
+      font-size: 5vh;
+      text-align: center;
+    }
+    h3 {
+      margin-top: 2%;
+      text-align: center;
+    }
+    .exercise {
+      min-height: 200px;
+      padding: 3%;
+      border-bottom: 1px solid $main-color;
+      span {
+        font-size: 2vh;
+        strong {
+          font-size: 3vh;
+        }
+      }
+      pre {
+        background-color: lighten($color: $main-background, $amount: 10);
+        border: 1px solid darken($color: $main-color, $amount: 50);
+        border-radius: 5px;
+        color: darken($color: $main-color, $amount: 30);
+        margin: auto;
+        margin-top: 3%;
+        overflow: hidden;
+        padding: 2%;
+        padding-left: 5%;
+        transition: max-height .5s ease;
+        width: 90%;
+      }
+      div {
+        margin: auto;
+        width: 80%;
+      }
+      button {
+        color: darken($color: $main-color, $amount: 30);
+        cursor: pointer;
+        background-color: lighten($color: $main-background, $amount: 2);
+        border: 1px solid darken($color: $main-color, $amount: 50);
+        border-top: none;
+        border-radius: 0px 0px 3px 3px;
+        padding: 1%;
+        width: 20%;
+        i {
+          font-size: 2vh;
+        }
+      }
+      h5 {
+        margin-top: 4%;
+        a {
+          color: darken($color: $main-color, $amount: 30);
+        }
+      }
+    }
+  }
+}
