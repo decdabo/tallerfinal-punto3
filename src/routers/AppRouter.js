@@ -167,7 +167,7 @@ export const AppRouter = () => {
   ]
 
   return (
-    <HashRouter basename="/tallerfinal-punto3">
+    <HashRouter basename="/">
       <NavComponent />
       <Routes>
         <Route path="*" element={<HomeScreen />} />
