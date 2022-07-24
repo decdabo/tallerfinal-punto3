@@ -10,13 +10,13 @@ export const CvHomeScreen = () => {
       title: "Personal Profile",
       content: (
       <>
-        I love coding and work in team with a strong and clear comunication.
+        I love coding and work in team with strong and clear comunication.
         <br />
         Willing to learn fast, in group and alone.
         <br />
         Results oriented.
         <br />
-        Independent, passionate and good vibes 24/7.
+        Independent, passionate and good vibes 4/20.
       </>
     ),
    },
@@ -24,13 +24,13 @@ export const CvHomeScreen = () => {
     title: "Hobbies",
     content: (
       <>
-        When I was 15 years old, I started play music starting with guitar,
-        nexting to bass and trumpet until to realize I love the drum more than
-        the any instrument in the world. Since this I play drum until to have
-        sell it for study programming (I was need a new PC).
+        When I was 15 years old, I started to play music, I begun with the guitar,
+        followed by the bass and the trumpet, until I realize I like the drum more than
+        the any instrument in the world. I have been playing drums ever since 
+        However, I sold it to study programming (I needed a new PC).
         <br />
         The music and coding is not my unique passion, I love audiovisual
-        medium, I see interesting the tell a history without any word, only
+        medium, I see interesting how tell a history without the necessity of words, only
         images, secuences and planes.
       </>
   ),

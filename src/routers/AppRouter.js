@@ -35,11 +35,11 @@ export const AppRouter = () => {
           title: 'Gustavo -- Friend',
           content: (
             <>
-              Is a good self-taught, positive and His priority 
+              Is a good self-taught, positive and his priority 
               <br/>
-              is move foward with Her career.
+              is move foward with his career.
               <br/> 
-              Is very enthusiastic with the programming and Has much potential
+              Is very enthusiastic with the programming and has much potential
             </>
           )
         }
@@ -120,7 +120,7 @@ export const AppRouter = () => {
               <br />
               This job was very dangerous for the snakes inside the plantation
               <br />
-              the stabs of the people was job with me.
+              and the stabs of the job mates.
             </>
           )
         },
