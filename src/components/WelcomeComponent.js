@@ -7,7 +7,7 @@ export const WelcomeComponent = () => {
       <h3 className="animate__animated animate__fadeInUp">Portfolio</h3>
       <h5 className="animate__animated animate__fadeInUp">-</h5>
       <h5 className="animate__animated animate__fadeInUp">Powered by: </h5>
-      <img className="animate__animated animate__fadeInDown" src="/assets/sofka-logo.png" alt="sofka-logo" />
+      <img className="animate__animated animate__fadeInDown" src={require('../data/images/sofkalogo.png')} alt="sofka-logo" />
     </section>
   )
 }
