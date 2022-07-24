@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tallerfinal-punto3/static/css/main.27841e85.css",
-    "main.js": "/tallerfinal-punto3/static/js/main.10019034.js",
+    "main.js": "/tallerfinal-punto3/static/js/main.ea07b0b9.js",
     "static/media/mainbackground.jpg": "/tallerfinal-punto3/static/media/mainbackground.9bbc258f8a7c8699ec0f.jpg",
     "static/media/sofkalogo.png": "/tallerfinal-punto3/static/media/sofkalogo.eacc0bca2af847e7949a.png",
     "index.html": "/tallerfinal-punto3/index.html",
     "main.27841e85.css.map": "/tallerfinal-punto3/static/css/main.27841e85.css.map",
-    "main.10019034.js.map": "/tallerfinal-punto3/static/js/main.10019034.js.map"
+    "main.ea07b0b9.js.map": "/tallerfinal-punto3/static/js/main.ea07b0b9.js.map"
   },
   "entrypoints": [
     "static/css/main.27841e85.css",
-    "static/js/main.10019034.js"
+    "static/js/main.ea07b0b9.js"
   ]
 }
