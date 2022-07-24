@@ -6,7 +6,6 @@ export const ExerciseWelcome = () => {
     <div className="main__exercise">
       <h1>Welcome!</h1>
         <div className="exercise">
-          <span><strong>Taller: </strong> Doomie</span>
           <pre style={{ maxHeight: preState ? "250vh" : "10vh" }}>
             <code>
               {`
